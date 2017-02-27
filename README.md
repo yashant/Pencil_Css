@@ -1,2 +1,2 @@
 # Pencil_Css
-Simple Css used to create a shape of a pencil
+css used to create a shape of a pencil
